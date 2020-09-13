@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python,Machine learning,javaScript and CSS.
 - 👯 I’m looking to collaborate on Web devlopment projects.
 - 💬 Ask me about python,java,web development,DS&algo.
-- 😄 My Leisures are Dancing,bikeriding,communicate with people.
+- 😄 My Leisures are Dancing,bike riding,communicate with people.
 - 📫 How to reach me: wagarepooja3@gmail.com
 - ⚡ Fun fact: learning and sharing knowledge among student.
 - Follow Mi on linkdin: www.linkedin.com/in/pooja-wagare-3031999
