@@ -1,12 +1,13 @@
-### Hi there It's Me Pooja Pramod Wagare👋
+### Hii, It's Me Pooja Pramod Wagare👋
 ##Software Engineer From India
-- 🔭 I’m currently working on Web Development and Artificial intelligence 
+- 🔭 I’m currently working on Web Development and Artificial intelligence.
 - 🌱 I’m currently learning python,Machine learning,javaScript and CSS.
-- 👯 I’m looking to collaborate on Web devlopment projects
-- 💬 Ask me about python,java,web development,DS&algo
+- 👯 I’m looking to collaborate on Web devlopment projects.
+- 💬 Ask me about python,java,web development,DS&algo.
+- 😄 My Leisures are Dancing,bikeriding,communicate with people.
 - 📫 How to reach me: wagarepooja3@gmail.com
-- ⚡ Fun fact: lerning and sharing knowlage among student
-www.linkedin.com/in/pooja-wagare-3031999
+- ⚡ Fun fact: learning and sharing knowledge among student.
+- Follow Mi on linkdin: www.linkedin.com/in/pooja-wagare-3031999
 <!--
 **PoojaWagare/PoojaWagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
