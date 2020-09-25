@@ -9,7 +9,7 @@
 - 😄 My Leisures are Dancing,bike riding,communicate with people.
 - 📫 How to reach me: wagarepooja3@gmail.com
 - ⚡ Fun fact: learning and sharing knowledge among student.
-- Follow Mi on linkdin: www.linkedin.com/in/pooja-wagare-3031999
+- Follow Me on linkdin: www.linkedin.com/in/pooja-wagare-3031999
 <!--
 **PoojaWagare/PoojaWagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
